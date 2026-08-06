@@ -97,4 +97,4 @@ modules:
     sources:
       - type: git
         url: https://github.com/seja-arctic-fox/vidcom
-        commit: c1e7138b068044e12e99971e3263bbb09b1384e8
+        commit: e6b5370c4073d6363d5bb09de4c1f29ea4a4b70b
